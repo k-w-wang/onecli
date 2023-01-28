@@ -1,0 +1,21 @@
+{
+  "name": "@k_wang/onecli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "enter": "./bin/enter.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.1",
+    "chalk": "^4.0.0",
+    "ora": "^5.0.0"
+  }
+}

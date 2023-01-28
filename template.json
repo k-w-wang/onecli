@@ -1,0 +1,10 @@
+{
+	"react": {
+		"vite": "k-w-wang/useTemplate#v1.0.1",
+		"webpack": ""
+	},
+    "vue": {
+		"vite": "",
+		"webpack": ""
+	}
+}
