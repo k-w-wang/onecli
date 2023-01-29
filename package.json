@@ -1,21 +1,42 @@
 {
-  "name": "@k_wang/onecli",
-  "version": "1.0.2",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"name": "@k_wang/onecli",
+	"version": "1.0.2",
+	"description": "一个脚手架足以满足你的需求！",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": {
+		"name": "wangkai"
+	},
+	"license": "ISC",
+	"keywords": [
+		"onecli",
+		"react",
+		"vue",
+		"webpack",
+		"vite",
+		"axios",
+		"antd",
+		"less",
+		"build-tools",
+		"typeScript"
+	],
+  "bugs": {
+    "url": "https://github.com/k-w-wang/onecli/issues"
   },
-  "author": "",
-  "license": "ISC",
-  "bin": {
-    "onecli": "./bin/enter.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-w-wang/onecli"
   },
-  "dependencies": {
-    "chalk": "^4.0.0",
-    "commander": "^10.0.0",
-    "download-git-repo": "^3.0.2",
-    "inquirer": "^8.2.1",
-    "ora": "^5.0.0"
-  }
+	"bin": {
+		"onecli": "./bin/enter.js"
+	},
+	"dependencies": {
+		"chalk": "^4.0.0",
+		"commander": "^10.0.0",
+		"download-git-repo": "^3.0.2",
+		"inquirer": "^8.2.1",
+		"ora": "^5.0.0"
+	}
 }
