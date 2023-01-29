@@ -9,7 +9,7 @@ const templates = require(`${__dirname}/../template`)
 
 module.exports = async function (projectName, options) {
     console.log();
-    console.log(' 🚀🚀 ', "当前仅有react + vite模版");
+    console.log(' 🚀🚀 ', "当前仅有react模版");
     console.log();
     inquirer
         .prompt([

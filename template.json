@@ -1,7 +1,7 @@
 {
 	"react": {
 		"vite": "k-w-wang/useTemplate#v1.0.1",
-		"webpack": ""
+		"webpack": "k-w-wang/useTemplate#v1.0.2"
 	},
     "vue": {
 		"vite": "",
